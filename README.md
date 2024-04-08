@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Golla Dhanush Kumar</h1>
 <h3 align="center">A passionate Front-end Developer from SRM AP University</h3>
 
-<img align="right" alt="Coding" width="400" src="https://custom-doodle.com/wp-content/uploads/doodle/working-with-a-laptop-anime-aesthetic/working-with-a-laptop-anime-aesthetic-doodle.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=golladhanushkumar&label=Profile%20views&color=0e75b6&style=flat" alt="golladhanushkumar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/dhanushkum78818" target="blank"><img src="https://img.shields.io/twitter/follow/dhanushkum78818?logo=twitter&style=for-the-badge" alt="dhanushkum78818" /></a> </p>
