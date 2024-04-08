@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=golladhanushkumar&label=Profile%20views&color=0e75b6&style=flat" alt="golladhanushkumar" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/dhanushkum78818" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/dhanushkum78818?logo=twitter&style=for-the-badge" alt="https://twitter.com/dhanushkum78818" /></a> </p>
+<p align="left"> <a href="https://twitter.com/dhanushkum78818" target="blank"><img src="https://img.shields.io/twitter/follow/dhanushkum78818?logo=twitter&style=for-the-badge" alt="dhanushkum78818" /></a> </p>
 
 - 🔭 I’m currently working on **Movie booking website**
 
